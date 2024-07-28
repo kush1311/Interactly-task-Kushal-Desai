@@ -6,8 +6,6 @@ This project is a candidate matching system that utilizes OpenAI's GPT-3.5-turbo
 
 ### API keys are below it will revoke in few days
 
-OpenAI = sk-proj-96WTk0dHUR7DShjc80L1T3BlbkFJWYH2EKhtzzy34vqICQCH
-
 
 
 Fine Tune Model API = ft:gpt-3.5-turbo-1106:personal::9pgH3AKW
