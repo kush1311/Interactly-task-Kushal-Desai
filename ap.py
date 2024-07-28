@@ -60,7 +60,7 @@ def calculate_score(candidate, job_description):
     Score this candidate on a scale of 0 to 100 based on the job description.
     """
     response = openai.Completion.create(
-        model="ft:gpt-3.5-turbo-1106:personal::9pgH3AKW",
+        model="Fine Tune Model API",
         prompt=prompt,
         max_tokens=10
     )
