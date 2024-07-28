@@ -6,7 +6,7 @@ import nltk
 from nltk.tokenize import word_tokenize
 
 # Set your OpenAI API key
-openai.api_key = 'sk-proj-96WTk0dHUR7DShjc80L1T3BlbkFJWYH2EKhtzzy34vqICQCH'
+openai.api_key = 'OpenAI'
 
 # Download NLTK resources
 nltk.download('punkt')
