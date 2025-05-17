@@ -54,7 +54,7 @@ This project demonstrates how generative AI and classic NLP techniques can be co
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/candidate-matcher
+git clone https://github.com/kush1311/candidate-matcher
 
 # Install required packages
 pip install -r requirements.txt
